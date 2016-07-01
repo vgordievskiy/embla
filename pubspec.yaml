@@ -15,6 +15,7 @@ dependencies:
   shelf: ^0.6.4
   shelf_static: ^0.2.3
   watcher: ^0.9.7
+  http_server: any
 
 dev_dependencies:
   test: any
